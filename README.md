@@ -1,3 +1,3 @@
 # InternshipAssignment
 
-A Todo List APi with FastAPI
+A Todo List API with FastAPI
